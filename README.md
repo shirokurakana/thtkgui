@@ -113,28 +113,28 @@ ecl文件中包含描述敌人移动，攻击等的脚本。它们的结构和�
 
 我将原版中的帮助文件以Markdown重写，并用README.md替换原来的README.txt，故在此备份一遍原版README.txt中的内容。
 
-> ﻿Графический интерфейс для программы Touhou Toolkit от xarnonymous.<br>
-Позволяет пропустить рутинные операции с командной строкой и перейти прямо к моддингу.<br>
-Для подробной информации обратитесь к файлам помощи в папке Help.
+>﻿Графический интерфейс для программы Touhou Toolkit от xarnonymous.<br>
+>Позволяет пропустить рутинные операции с командной строкой и перейти прямо к моддингу.<br>
+>Для подробной информации обратитесь к файлам помощи в папке Help.<br>
 Разработка: доброанон с dobrochan.com/to<br>
-Почта: fake.dobrochan@gmail.com<br>
-Автор идеи и главный тестер: sybgamer<br>
-Репозиторий на Гитхабе: github.com/fakedobro/thtkgui<br>
-<br>
-A graphical interface for Touhou Toolkit made by xarnonymous.<br>
-Allows to skip routine command line operations and move on straight to modding.<br>
-For more information refer to help files in Help folder.<br>
-Developer: dobroanon from dobrochan.com/to<br>
-Mail: fake.dobrochan@gmail.com<br>
-Author of idea and main tester: sybgamer<br>
-Repository on GitHub: github.com/fakedobro/thtkgui<br>
-<br>
-由xarnonymous制作的Touhou Toolkit的图形界面。<br>
-允许跳过例行命令行操作并继续直接进行修改。<br>
-有关更多信息，请参阅帮助文件夹中的帮助文件。<br>
-开发人员：dobrochan.com/to的dobroanon<br>
-邮箱：fake.dobrochan@gmail.com<br>
-想法和主要测试者的作者：sybgamer<br>
-GitHub仓库：github.com/fakedobro/thtkgui<br>
+>Почта: fake.dobrochan@gmail.com<br>
+>Автор идеи и главный тестер: sybgamer<br>
+>Репозиторий на Гитхабе: github.com/fakedobro/thtkgui<br>
+><br>
+>A graphical interface for Touhou Toolkit made by xarnonymous.<br>
+>Allows to skip routine command line operations and move on straight to >modding.<br>
+>For more information refer to help files in Help folder.<br>
+>Developer: dobroanon from dobrochan.com/to<br>
+>Mail: fake.dobrochan@gmail.com<br>
+>Author of idea and main tester: sybgamer<br>
+>Repository on GitHub: github.com/fakedobro/thtkgui<br>
+><br>
+>由xarnonymous制作的Touhou Toolkit的图形界面。<br>
+>允许跳过例行命令行操作并继续直接进行修改。<br>
+>有关更多信息，请参阅帮助文件夹中的帮助文件。<br>
+>开发人员：dobrochan.com/to的dobroanon<br>
+>邮箱：fake.dobrochan@gmail.com<br>
+>想法和主要测试者的作者：sybgamer<br>
+>GitHub仓库：github.com/fakedobro/thtkgui<br>
 
 
