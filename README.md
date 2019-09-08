@@ -1,5 +1,7 @@
 # 介绍
 
+已转移至https://github.com/shirokurakana/thtkgui_custom
+
 Touhou Toolkit（简称thtk）是一个解包和修改东方游戏资源文件的工具。它允许提取和修改游戏脚本，材质和GUI元素; 游戏内文字; 指定敌人移动，攻击等的级别脚本; demo rep和游戏内声音。它不能解包并保存BGM（红妖永的midi音乐除外，因为mid文件存储在`thxx.dat`中而非`thbgm.dat`中）(xx为一个数字，下同）。
 
 Touhou Toolkit由四个控制台应用程序组成（现在有五个程序，新增了thstd.exe用于处理std文件，但thtkgui尚未支持。std文件中包含3D背景相关的文件）
